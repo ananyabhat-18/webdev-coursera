@@ -15,7 +15,7 @@
 }
 
 .navbar-brand:hover{
-	color: gray;
+	color: white;
 }
 
 .nav{
@@ -36,7 +36,7 @@
 }
 
 .icon-bar{
-	background-color: #9af5b2;
+	background-color: white;
 }
 
 
@@ -89,4 +89,8 @@ li{
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
+}
+
+#top{
+
 }
